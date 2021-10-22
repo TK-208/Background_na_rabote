@@ -1,4 +1,4 @@
-/*
+
 *{
 	padding: 0;
 	margin: 0;
@@ -36,8 +36,44 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 
-*/
-.buka{
-	font-size: 40px;
-	color: red;
+body{
+	background-color: #e8e8e8;
 }
+
+.content {
+	padding: 125px 0 103px 0;
+	max-width: 841px;
+	margin: 0px auto;
+}
+.content_header {
+	text-align: center;
+	margin: 0px 0px 70px 0px;
+}
+.content_header_metka {
+	opacity: 0.6;
+	color: #273d46;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2.8px;
+	margin: 0px 0px 15px 0px;
+}
+.content_header_zagolovok {
+		/* Style for "Donec sed" */
+	width: 725px;
+	height: 75px;
+	color: #273d46;
+	font-family: "Times New Roman PSMT";
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 50px;
+}
+.content_inf {}
+.content_bottom {}
+.content_bottom_opisanie {}
+.abz1 {}
+.abz2 {}
+.content_bottom_perechen {}
+.content_bottom_knopka {}
